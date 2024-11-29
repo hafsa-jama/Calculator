@@ -1,3 +1,10 @@
+.background{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+
 .calculator {
     height: 400px;
     width: 250px;
